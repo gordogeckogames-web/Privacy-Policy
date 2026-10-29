@@ -1,0 +1,35 @@
+Privacy Policy for Pigeon Bro 
+
+Effective Date: 10/27/2026
+
+This Privacy Policy explains how **Pigeon Bro** (“the Game”), developed independently by GordoGeckoGames, handles user information.
+
+No Data Collection
+Pigeon Bro does not collect, store, use, transmit, or share any personal information or user data.
+
+The Game does not collect:
+- Names, email addresses, or other contact information
+- Account or login information
+- Device identifiers
+- IP addresses
+- Location data
+- Gameplay or usage data
+- Advertising identifiers
+- Payment information
+- Photos, contacts, or files
+- Diagnostic, analytics, or crash-report data
+Pigeon Bro does not require users to create an account or provide personal information to play.
+
+Local Game Data
+Any game progress, settings, or preferences created while using Pigeon Bro are stored locally on the user’s device, if applicable. This information is not transmitted to the developer or any third party.
+
+Deleting the Game may also delete locally stored game data, depending on the user’s device and operating system.
+
+Third-Party Services
+Pigeon Bro does not use third-party analytics, advertising, tracking, authentication, cloud-storage, or data-collection services.
+
+Children’s Privacy
+Because Pigeon Bro does not collect any personal information, it is designed not to collect information from users of any age, including children.
+
+Changes to This Privacy Policy
+This Privacy Policy may be updated from time to time. Any changes will be posted with a new effective date. Continued use of Pigeon Bro after an update means that the revised Privacy Policy applies.
